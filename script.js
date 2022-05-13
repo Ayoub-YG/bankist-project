@@ -238,3 +238,13 @@ darkMode.onclick = function(){
   btnSort.classList.toggle('btn--sortD') 
   console.log('her');
 }
+// let x = 5 ;
+// let y = 59 
+// function  timer (){
+//   y = y-1 
+//   if (y = 0){
+//     x=x-1
+//   }
+// }
+// setTimeout(timer, timeout);
+// console.log(`${x}:${y}`);
